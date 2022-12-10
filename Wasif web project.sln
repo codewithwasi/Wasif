@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wasif web project", "Wasif web project.csproj", "{009F2459-7572-4DD8-A6A5-10645FE69D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009F2459-7572-4DD8-A6A5-10645FE69D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009F2459-7572-4DD8-A6A5-10645FE69D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009F2459-7572-4DD8-A6A5-10645FE69D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009F2459-7572-4DD8-A6A5-10645FE69D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CFA2565-13E1-4B46-91C0-00E542077EBA}
+	EndGlobalSection
+EndGlobal
